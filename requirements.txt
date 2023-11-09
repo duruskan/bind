@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 scrapy
-request
+requests
